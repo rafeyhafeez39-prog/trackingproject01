@@ -12,7 +12,7 @@ export default function Home() {
       body: JSON.stringify({ worker })
     });
 
-    window.location.href = "https://www.home-repair-services-guide-usa.pro/";
+    window.location.href = "home-repair-services-guide-usa.pro/";
   };
 
   return (
@@ -73,6 +73,7 @@ export default function Home() {
     </div>
   );
 }
+
 
 
 
