@@ -13,6 +13,7 @@ export default function Home() {
     });
 
     window.location.href = "https://www.facebook.com/share/p/1GmnACbcZx/
+
 ";
   };
 
@@ -74,6 +75,7 @@ export default function Home() {
     </div>
   );
 }
+
 
 
 
